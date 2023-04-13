@@ -1,0 +1,26 @@
+<RCC>
+    <qresource prefix="/recource">
+        <file>images/blue.jpg</file>
+        <file>images/bluehand.jpg</file>
+        <file>images/data.jpg</file>
+        <file>images/fall.jpg</file>
+        <file>images/goodcode.jpg</file>
+        <file>images/greengo.jpg</file>
+        <file>images/greengo2.jpg</file>
+        <file>images/holematrix.jpg</file>
+        <file>images/neomatrix.jpg</file>
+        <file>images/notebook.jpg</file>
+        <file>images/raduga1.jpg</file>
+        <file>images/rain.jpg</file>
+        <file>images/redcode.jpg</file>
+        <file>images/redhole.jpg</file>
+        <file>images/redmatrix.png</file>
+        <file>images/some.jpg</file>
+        <file>images/Supercode.jpg</file>
+        <file>images/ux.jpg</file>
+        <file>images/ux2.jpg</file>
+        <file>images/worldmatrix.jpg</file>
+        <file>images/blueexit.png</file>
+        <file>images/exit.png</file>
+    </qresource>
+</RCC>
